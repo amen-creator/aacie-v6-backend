@@ -7,3 +7,8 @@ requests
 python-dotenv
 alembic
 psycopg2-binary
+langgraph
+langchain-core
+langchain-groq
+duckduckgo-search
+lxml
